@@ -1,0 +1,48 @@
+Data Types
+
+numbers
+    - int
+    - float
+    - complex
+sequence
+    - list
+    - tuple
+    - set
+    - frozenset
+    - range
+    - string
+    - bytes
+    - bytearray
+
+map
+    - dict
+None
+bool -True, False
+
+# immutable
+
+# mutable
+
+  - list
+  - set
+  - bytearray
+  - dictionary
+
+# built in function
+
+sum()
+type()
+len()
+input()
+print()
+str()
+dir()
+list()
+
+# function arguments:
+- formal
+- actual
+- default
+- variable length
+- keyword
+- variable length keyword
